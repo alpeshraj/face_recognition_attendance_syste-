@@ -1,0 +1,12 @@
+opencv-python
+cmake==3.25.0
+dlib
+face_recognition
+psycopg2
+uvicorn
+fastapi
+pydantic
+pandas
+dotenv
+
+
